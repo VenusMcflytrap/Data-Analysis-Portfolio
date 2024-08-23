@@ -12,8 +12,8 @@ Welcome to my data analysis portfolio! This repository showcases a variety of pr
 I am a passionate data analyst with experience in using tools like Power BI, Python, SQL, and Excel to drive business decisions through data-driven insights.
 ## Portfolio Projects
 
-### Power BI
+### Power BI Projects
 
-#### [Report on Proposed Expansion and Technology Centralization](./Power-BI/Report on proposed expansion and technology centralization.docx)
-
+#### 📊 [Report on Proposed Expansion and Technology Centralization](https://github.com/VenusMcflytrap/Data_Analysis_Portfolio/blob/main/Report%20on%20proposed%20expansion%20and%20technology%20centralization.docx)
 This report examines the proposed expansion and centralization of technology, providing insights and recommendations based on the data analysis performed using Power BI.
+
