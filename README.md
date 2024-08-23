@@ -1,4 +1,4 @@
-# Data_Analysis_Portfolio
+# Data Analysis Portfolio
 Welcome to my data analysis portfolio! This repository showcases a variety of projects demonstrating my skills in data analysis, visualization, and business intelligence.
 
 - [About](#about)
