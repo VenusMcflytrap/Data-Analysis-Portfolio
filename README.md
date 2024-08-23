@@ -9,7 +9,7 @@ Welcome to my data analysis portfolio! This repository showcases a variety of pr
 
 ## About
 
-I am a passionate data analyst with experience in using tools like Power BI, Python, SQL, and Excel to drive business decisions through data-driven insights.
+I am a passionate data analyst with experience in using tools like Power BI, Python, MySQL, and Excel to drive business decisions through data-driven insights.
 ## Portfolio Projects
 
 ### Power BI Projects
